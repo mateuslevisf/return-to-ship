@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Return To Ship
+### Description
 
-You can use the [editor on GitHub](https://github.com/mateuslevisf/return-to-ship/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Return To Ship is an arcade game where you play as a little robot who keeps ejecting itself from its own ship. Now, your goal is to return safely. But to do so, you'll have to manage your fuel levels and travel through asteroid-filled stages. Can you make it?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Game features:
+- Easy-to-learn controls 
+- Simple but challenging mechanics
+- Original, space-themed soundtrack
+- Arcade-inspired design 
+- 8 different levels of increasing difficulty (with more coming soon!)
 
-### Markdown
+RETURN TO SHIP: it's time to go back home!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
+If you have any questions or problems with the app, please send an e-mail to: mateuslevisimoes@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mateuslevisf/return-to-ship/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Return To Ship © 2020 Helena Vilar, Lucas Lima, Mateus Levi, Theo Caldas
