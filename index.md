@@ -1,3 +1,4 @@
+## Return To Ship
 ### Description
 
 Return To Ship is an arcade game where you play as a little robot who keeps ejecting itself from its own ship. Now, your goal is to return safely. But to do so, you'll have to manage your fuel levels and travel through asteroid-filled stages. Can you make it?
@@ -17,6 +18,11 @@ Game features:
 ![Screenshot2](https://github.com/mateuslevisf/return-to-ship/blob/gh-pages/assets/img/screenshot2.png?raw=true)
 ![Screenshot3](https://github.com/mateuslevisf/return-to-ship/blob/gh-pages/assets/img/screenshot3.png?raw=true)
 
+### Additional Information
+
+This app was created by four students from the Apple Developer Academy at PUC-Rio, Rio de Janeiro, Brazil. Most image assets and sound files were created by members of the team.
+
+Fonts used in the project: [Dosis](https://fonts.google.com/specimen/Dosis?preview.text_type=custom&query=Dosis), [Poppins](https://fonts.google.com/specimen/Poppins?preview.text=&preview.text_type=custom&query=Poppins) and [Exo](https://fonts.google.com/specimen/Exo?preview.text=&preview.text_type=custom&query=Exo).
 
 ### Contact
 
