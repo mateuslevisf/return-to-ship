@@ -12,6 +12,8 @@ Game features:
 
 **RETURN TO SHIP**: it's time to go back home!
 
+[Available on the App Store.](https://apps.apple.com/br/app/return-to-ship/id1539465054?l=en)
+
 ### Screenshots
 
 ![Screenshot1](https://github.com/mateuslevisf/return-to-ship/blob/gh-pages/assets/img/screenshot1.png?raw=true)
